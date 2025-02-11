@@ -3,6 +3,8 @@
 
 This project is designed to process voice data using Python and various supporting files. It includes capabilities for voice processing, audio analysis, and audio generation. The latest update introduces a new Blending feature that allows for the combination of two distinct voice profiles to generate unique speech outputs.
 
+NOTE: This was initially offered using "uv" based packages, but it now uses normal "pip install" packages. As a result, if you had the first version, you would need to delete the old .venv, and re-run the install.bat file.
+
 ## Installation
 
 1. Ensure you have Python installed (check the required Python version in the `.python-version` file).
