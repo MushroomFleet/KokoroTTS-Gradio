@@ -1,0 +1,6 @@
+torch
+torchaudio
+gradio>=4.0.0
+kokoro-onnx>=0.4.2
+soundfile
+numpy
