@@ -36,7 +36,7 @@ You can run the application in several ways:
 ## User Functions
 
 - **Voice Processing and Analysis:**  
-  The application utilizes the `kokoro-v1.0.onnx` model for voice processing and leverages the configuration in `voices-v1.0.bin` along with `voice-data.json` to manage voice data.
+  The application utilizes the `kokoro-v1.0.onnx` model https://github.com/taylorchu/kokoro-onnx/releases/download/v0.2.0/kokoro.onnx for voice processing and leverages the configuration in `voices-v1.0.bin` along with `voice-data.json` to manage voice data.
 
 - **Audio Handling:**  
   Processed audio outputs are saved in the `output/` directory. Check this folder for generated audio files after processing.
